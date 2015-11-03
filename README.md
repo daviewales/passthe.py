@@ -18,12 +18,15 @@ To recap, at this point you should have a file full of random characters at the 
 ### Running passthe.py
 Now that you have a seed in the right location, running passthe.py should be fairly simple.
 First, make sure it is executable by running
+
     chmod +x passthe.py
     
 Then run passthe.py in your terminal.
+
     ./passthe.py
 
 If you don't want to make passthe.py executable, you can execute it using Python as follows:
+
     python3 passthe.py
 
 Enter the name of the website at the first prompt.
