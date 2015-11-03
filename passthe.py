@@ -3,11 +3,10 @@
 import hashlib
 import getpass
 import os
-import binascii
 import base64
 
 home = os.getenv('HOME')
-seed_path = home + '/.PTPie'
+seed_path = home + '/.passthe.py.seed'
 
 site = input('Site: ').encode('utf-8')
 password = getpass.getpass().encode('utf-8')
