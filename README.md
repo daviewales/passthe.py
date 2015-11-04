@@ -37,5 +37,5 @@ Wait a second or two for your password to be generated.
 
 ## Attribution
 
-The idea for this program was taken from [Pass the Pie](https://launchpad.net/pass-the-pie), by Cafeinoz.
+This program was based on the concept of [Pass the Pie](https://launchpad.net/pass-the-pie), by Cafeinoz.
 He is on [Launchpad](https://launchpad.net/~cafeinoz) and [Github](https://github.com/cafeinoz).
